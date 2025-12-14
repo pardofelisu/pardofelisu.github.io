@@ -8,9 +8,9 @@ These are the narratives I have created alongside the 3 enhancements.
 these narratives defend the resason for using the artifact and why
 I made the enhancements. 
 
-[Enhancement one narrative][narrative-one]
-[Enhancement two narrative][narrative-two]
-[Enhancement three narrative][narrative-three]
+[Enhancement one narrative](https://github.com/pardofelisu/pardofelisu.github.io/blob/master/narratives/Tashi%20cs499%20milestone%202%20narrative.docx)
+[Enhancement two narrative](https://github.com/pardofelisu/pardofelisu.github.io/blob/master/narratives/cs499%20milestone%203%20narrative.docx)
+[Enhancement three narrative](https://github.com/pardofelisu/pardofelisu.github.io/blob/master/narratives/cs499%20mod%205%20narrative.docx)
 
 
 [narrative-one]: pardofelisu/pardofelisu.github.io/narratives/Tashics499milestone2narrative.docx

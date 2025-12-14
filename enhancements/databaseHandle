@@ -1,0 +1,38 @@
+// Database handling functions
+// November 30 2025
+// This module simulates a simple in-memory database for storing items
+// and their states in a game environment. will add more features later.
+
+const database = {
+    items: [
+        { id : 1, name: "baseballbat", room: "Bedroom", interacted: false },
+        { id : 2, name: "compass", room: "Bedroom", interacted: false },
+        { id : 3, name: "monster", room: "Main Hall", interacted: false },
+        { id : 4, name: "key", room: "Closet", interacted: false }//reflect in scenemanager
+    ]
+};
+
+// Add a new item to the database
+function addItem(name, room) {
+    const id = database.items.length + 1;
+    database.items.push({ id, name, room, interacted: false });
+}
+
+// Mark an item as interacted
+function interactWithItem(id) {
+    const item = database.items.find(item => item.id === id);
+    if (item) item.interacted = true;
+}
+
+// Get all items in a specific room
+function getItemsInRoom(room) {
+    return database.items.filter(item => item.room === room);
+}
+
+// Export functions for use elsewhere
+module.exports = {
+    database,
+    addItem,
+    interactWithItem,
+    getItemsInRoom
+};

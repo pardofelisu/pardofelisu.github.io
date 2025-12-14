@@ -20,7 +20,7 @@ course, which is a conglomerate of many enhancements and self-improvements.
 
 Please enjoy your stay!
 
-[original-code]: https://github.com/pardofelisu/pardofelisu.github.io/tree/master/original
+[original-code]: https://pardofelisu.github.io/original-code/
 [code-review]: pardofelisu/pardofelisu.github.io/_posts/2025-12-13-code-review.md
 [enhanced-code]: pardofelisu/pardofelisu.github.io/_posts/2025-12-13-enhanced-code.md
 [narratives]: pardofelisu/pardofelisu.github.io/_posts/2025-12-13-narratives.md

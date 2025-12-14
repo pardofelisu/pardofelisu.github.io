@@ -18,7 +18,7 @@ strengths through pacing myself throughout the term with weekly milestones and
 journals, as well as help me develop my goals as a Computer Scientist. 
 Throughout the entirety of this course, I have used a status chart that shows 
 where exactly I am in the course, which is updated weekly.
-EMBED HERE
+![picture](https://github.com/pardofelisu/pardofelisu.github.io/blob/7e2d3e1f500b3798f697314fd7fe02c737142399/assets/images/IMG_0056.jpeg)
 
 This simple chart is what allowed me to visually see what I needed to do in the 
 future weeks and helped me pace myself through the course. At my current job as a 

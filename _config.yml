@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:ada.anderson@snhu.edu"}
-  - {title: Github, icon: github, url: "https://github.com/npardofelisu"}
+  - {title: Github, icon: github, url: "https://github.com/pardofelisu"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:

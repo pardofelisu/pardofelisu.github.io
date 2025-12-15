@@ -1,7 +1,7 @@
 ---
 title:  "Advanced examples"
 mathjax: true
-layout: post
+layout: page
 categories: media
 ---
 

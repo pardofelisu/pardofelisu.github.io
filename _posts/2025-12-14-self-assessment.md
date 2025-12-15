@@ -1,5 +1,5 @@
 ---
-title: "Self Assesment"
+title: "Self Assessment"
 layout: post
 categories: media
 ---
